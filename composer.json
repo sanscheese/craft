@@ -1,6 +1,6 @@
 {
   "name": "sanscheese/craft",
-  "description": "nystudio107 Craft 3 CMS scaffolding project",
+  "description": "Sanscheese Craft 3 CMS scaffolding project",
   "version": "1.0.13",
   "keywords": [
     "craft",
@@ -12,10 +12,10 @@
   "homepage": "https://craftcms.com/",
   "type": "project",
   "support": {
-    "email": "info@nystudio107.com",
-    "issues": "https://github.com/nystudio107/craft/issues",
-    "source": "https://github.com/nystudio107/craft",
-    "docs": "https://github.com/nystudio107/craft"
+    "email": "web@bensheedy.com",
+    "issues": "https://github.com/sanscheese/craft/issues",
+    "source": "https://github.com/sanscheese/craft",
+    "docs": "https://github.com/sanscheese/craft"
   },
   "minimum-stability": "RC",
   "require": {
